@@ -61,6 +61,7 @@ return {
         return vim.o.columns * 0.4
       end
     end,
+    vim.keymap.set("t", "<esc>", [[<C-\><C-n>]]),
     open_mapping = [[<c-\>]],
     -- on_open = fun(t: Terminal), -- function to run when the terminal opens
     -- on_close = fun(t: Terminal), -- function to run when the terminal closes
