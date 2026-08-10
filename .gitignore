@@ -8,3 +8,4 @@ foo.*
 data
 lua/plugins/codesubtitle.lua
 lua/plugins/supermaven.lua
+lua/plugins/metal.lua
