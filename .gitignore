@@ -6,3 +6,5 @@ debug
 foo.*
 *.log
 data
+lua/plugins/codesubtitle.lua
+lua/plugins/supermaven.lua
